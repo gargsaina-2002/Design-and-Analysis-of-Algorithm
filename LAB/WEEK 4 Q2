@@ -55,4 +55,4 @@ int partition(int arr[] , int low , int high, int *c){
         swap(&arr[i+1],&arr[high]);
     return i+1;
 }
-© 2022 GitHu
+
